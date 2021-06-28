@@ -1,5 +1,5 @@
 # [Year End Projet] Indie Studio
-Projet de fin d'année de la deuxième année d'Epitech Strasbourg
+Projet de fin d'année de la deuxième année d'Epitech Strasbourg. Promo 2024.
 
 # But du projet
 Le but du projet est de réaliser un clone du jeu Bomberman avec la librairie Raylib ou Irrlicht. <br>
